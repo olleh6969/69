@@ -1,0 +1,37 @@
+/* h3{background-color: #55b3b1;color: #af0069;
+    padding: 5px;
+
+
+    } */
+
+body {
+    background-color: #f6c065;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tbody {
+    background-color:  #f6c065a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+thead {
+    background-color: aqua;
+}
+/* 類別 */
+.style1 {
+    background-color: rgb(11, 154, 236);
+}
+ .img-style1{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: white;
+    width: 150px;
+    height: 200px; 
+
+}
+/* ID區 */
+#main{
+    background-color: rgba(9, 214, 241, 0.829);
+}
